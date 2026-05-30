@@ -1,0 +1,9 @@
+{
+  "name": "kelulusan-sdn-gedong11pagi",
+  "version": "1.0.0",
+  "description": "Aplikasi Pengumuman Kelulusan SDN Gedong 11 Pagi",
+  "main": "api/cek.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.4"
+  }
+}
